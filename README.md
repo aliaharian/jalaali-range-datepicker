@@ -73,4 +73,4 @@ Contributions are welcomed! If you have suggestions for improvements, please ope
 
 ## Contact
 
-For questions or inquiries, feel free to contact [yourname](mailto:aliaharian5@gmail.com).
+For questions or inquiries, feel free to contact [aliaharian](mailto:aliaharian5@gmail.com).
